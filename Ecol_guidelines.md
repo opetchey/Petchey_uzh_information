@@ -1,35 +1,8 @@
-![](media/image1.png)
+**Ecology Specialisation of Masters in Biology**
 
 **Instructions for students and supervisors**
 
-**Table of contents**
 
-The learning agreement 1
-
-Duration 1
-
-Extensions 1
-
-BIO520 Integrated knowledge in Biology (10CPs) **Error! Bookmark not
-defined.**
-
-Description 2
-
-Learning Outcomes 2
-
-Format of the exams 2
-
-Part 1: Written examination 3
-
-Part 2: Oral examination 3
-
-BIO520 FAQs 3
-
-BIO 510 Master Thesis 3
-
-Thesis grading instructions 3
-
-Masterabschluss in Vertiefungsrichtung 3
 
 Duration
 ========
