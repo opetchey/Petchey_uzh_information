@@ -1,11 +1,11 @@
-**Ecology Specialisation of Masters in Biology**
+# Ecology Specialisation of Masters in Biology
 
-**Instructions for students and supervisors**
+## Instructions for students and supervisors
 
 
 
-Duration
-========
+# Duration
+
 
 The Masters is composed of three parts:
 
@@ -21,16 +21,14 @@ day, five days per week, for seven and a half weeks).
 3\. Elective modules (20 CPs). The time used for these is of course
 separate from time used for BIO 510 and 520.
 
-<span id="_Toc278616876" class="anchor"><span id="_Toc278616878" class="anchor"></span></span>The learning agreement
-====================================================================================================================
+# The learning agreement
 
 The learning agreement sets out the student’s programme of learning and
 research during their Masters. It should be well thought out and
 carefully planned, such that changes are unecessary. All sections should
 be completed before the signature of the Masters Coordinator is sought.
 
-Extensions
-==========
+# Extensions
 
 Due to fairness, the total duration of a Master's project is one year,
 and not more except in exceptional circumstances. The fairness goes in
@@ -64,10 +62,10 @@ deadline during holidays, not anticipating important activities).
 To request an extension please discuss the request with your supervisor,
 and then email it to the Masters Coordinator and cc your supervisor.
 
-**BIO 520 "Integrated Knowledge in Biology**
 
-Description
------------
+# BIO 520 "Integrated Knowledge in Biology
+
+##Description
 
 This module, designed as a self-study period of the Master degree course
 and comprising of a total of 300 study hours (corresponding to about 2
@@ -84,8 +82,8 @@ Masters Thesis research. At the end of the self-study period, the
 examination takes place in the form of a three-hour written and a
 30-minute oral examination.
 
-Learning Outcomes
------------------
+## Learning Outcomes
+
 
 By the end of this module students should be able to
 
@@ -98,8 +96,9 @@ methods and concepts
 - summarise and critically review scientific literature efficiently and
 effectively
 
-Format of the exams
--------------------
+
+## Format of the exams
+
 
 The three-hour written and the oral examination should ideally take
 place within one week. While an approximate date is already determined
@@ -114,8 +113,7 @@ their Masters thesis (this could work well with option 1.3 for the
 written part, see below).* The final grade will be the arithmetic mean
 (rounded to half grades) of the grades obtained in the two parts.
 
-Part 1: Written examination
----------------------------
+## Part 1: Written examination
 
 The written examination lasts 3 hours. Unless otherwise agreed, the exam
 takes place at the Institute of Evolutoinary Biology and Environmental
@@ -183,8 +181,7 @@ the Masters thesis research area, and a literature review is researched
 and written. The review could include documentation of previous work,
 critique of previous work, and synthesis of the same.
 
-<span id="_Toc278616884" class="anchor"><span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2" class="anchor"></span></span></span>Part 2: Oral examination
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Part 2: Oral examination
 
 The oral exam should take place in the same week as the essay is
 written. The oral exam may follow a presentation of the Master thesis in
@@ -204,8 +201,7 @@ seminar room, organize the seminar and inform the other examiners where
 the seminar will take place. In special cases, the oral exam can be
 organized by the MSc coordinator.
 
-BIO520 FAQs
------------
+## BIO520 FAQs
 
 *1. Who selects which option (general essay, literature review, study of
 particular papers)?\
@@ -262,8 +258,7 @@ communicate the corrected exam as well as a suggestion for an
 appropriate grade to the MSc coordinator within about a week. The MSc
 coordinator has the right to modify the suggested grade.
 
-BIO 510 Master Thesis
-=====================
+# BIO 510 Master Thesis
 
 The written Master thesis has to comply formally with the usual
 standards applied to scientific publications. The student has to hand in
@@ -279,8 +274,7 @@ standards, as well as modify the suggested grade.
 The oral and written part must each be graded at least 4.0 to pass.
 Retaking individual components (i.e., oral or written) is possible.
 
-Thesis grading instructions
----------------------------
+## Thesis grading
 
 In general the following six criteria (A.1-3, B.1-3) are most important
 for grading BIO 510:
@@ -358,9 +352,9 @@ B.3 Communication:
 - Clear presentation of the project and the results in group meetings
 and during a contingent Master thesis defence.
 
-2.1 *Public research seminar on Master thesis project*
+# Public research seminar on Master thesis project
 
-**The public research seminar** (about 25 minutes + 10 minutes of public
+(About 25 minutes + 10 minutes of public
 discussion). Quality of the performance will be considered (among many
 additional points) when deciding on a grade for the Master thesis (BIO
 510). The public research seminar is used as a convenient mechanism for
