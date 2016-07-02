@@ -2,7 +2,7 @@
 Thanks for your email; this is an automated reply.
 Helping with your enquiry quickly and efficiently is important to me.
 
-If your enquiry is about working with me, about any of the courses I teach / coordinate at UZH, about PhD studies, or about master studies, please look at this web page, where you will find useful information and instructions:
+If your enquiry is about working with me, about any of the courses I teach / coordinate at UZH, about PhD studies, about a review request, or about master studies, please look at this web page, where you will find useful information and instructions:
 http://opetchey.github.io/Petchey_uzh_information/
 
 I will respond as soon as possible to enquiries about other matters.
