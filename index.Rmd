@@ -138,7 +138,7 @@ BIO633 Reproducible Research in Ecology, Evolution, Behaviour, and Environmental
 
 # Ecology PhD
 
-Please consult the information on this [PhD Programme in Ecology web page](http://www.ieu.uzh.ch/teaching/phd/graduate.html). Also please consider contacting the coordinator of the programme, Debra Zuppinger-Dingley. You can find her email address on [this](http://www.ieu.uzh.ch/staff.php) page.
+The current director of the programme, and other important information about it can be found here: [PhD Programme in Ecology web page](http://www.ieu.uzh.ch/teaching/phd/graduate.html). Also please consider contacting the coordinator of the programme, Debra Zuppinger-Dingley. You can find her email address on [this](http://www.ieu.uzh.ch/staff.php) page.
 
 # Ecology "Masters"
 
