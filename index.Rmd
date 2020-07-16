@@ -1,0 +1,370 @@
+---
+title: "Petchey UZH Information"
+date: "Last update `r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    number_sections: no
+    toc: yes
+    toc_depth: 1
+    theme: spacelab
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+---
+
+***Various information related to Owen Petchey&#39;s work and responsibilities at University of Zurich***
+
+# Working in Owen's team
+
+Please see this web page [about opportunities to work in Owen's team](http://thetrophiclink.org/opportunities/). This one about [how to make an (even more) effective enquiry](http://thetrophiclink.org/posts/making-an-effective-enquiry/) may also be useful.
+
+# BIO 144
+
+## Taking the course
+
+Please see the important information in the [UZH Vorlesungverzeichnis/Course Catalogue](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html). Please send any enquiries to [the course email address](mailto:bio144@ieu.uzh.ch). You may also view the course [Learning Objectives](https://github.com/opetchey/BIO144/blob/master/1_learning_objectives/Weekly_learning_objectives.pdf).
+          
+If you would like to register/book to take BIO144 then please: login on the module booking system (the link is on this page: https://www.students.uzh.ch/en/booking.html); in the module booking system of UZH, go to “Freie Modulsuche” (free search); remove the cross in the checked box “eingeschränkte Suche” ("limited search”); enter "BIO 144" in the search field; then you can register for it.
+          
+* If you cannot register/book with that method, please contact studienkoordination@biol.uzh.ch
+          
+* If you missed the registration period but would still like to register, please contact studienkoordination@biol.uzh.ch
+
+* If you can't book a place on the course via the booking tool, please contact studienkoordination@biol.uzh.ch
+ 
+* If you missed the registration period, here is the email you will have missed. It contains critical information about what to do before the course starts:
+
+> Dear Students
+>
+>Welcome to BIO144, Data Analysis in Biology.
+>
+>All information about the course is provided via the online learning platform edu-exchange (another installation of openedx). I am sorry that this is probably a new platform for you to register on and use. Please go here (https://edu-exchange.uzh.ch/), click on “Sign in” in the top right corner, and follow the instructions.
+>
+>Then enrol in this course:
+https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2020/about
+>
+>Before the first class, please look at the sections of the course material on openedx:
+>
+>* About the course
+>* Please do this now!
+>* What you should already know (with things you can do to help remember)
+>
+>This may take a few hours.
+>
+> The course could be quite challenging, especially in the first few weeks, so its really worth doing this preparation.
+>
+> By the way, you need to bring a laptop to the first (and every other) class.
+>
+> Please use the online course discussion forum for any queries, or do so in person during the first class.
+>
+> Please address any email enquiries to bio144@ieu.uzh.ch
+
+         
+
+
+## BIO144 Teaching Assistantships
+
+**For TAing in the coming session: this will be organised from October onwards. Please then contact Frank Pennekamp (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
+
+*BIO 144 -- Data Analysis in Biology* is a 4th semester mandatory course for the approx. 300 biology, biomedicine, and other students. It is a great opportunity to impart to students the wonderful world of quantitative problem solving, in a large, interactive, and enjoyable class.  We will cover getting data, managing data, visualising data, summarising data, statistical analysis (mostly linear models, but also some other methods), and communicating results.
+    
+The course lectures are 1-3pm on Mondays, and practicals are 1-3pm Thursday (for half the students in the class) and 1-3pm Friday (for the other half) for 12 weeks (semester is 14 weeks, but two weeks involve self-study), from late February to early June. TAs are required during the practical classes. TAs can attend the lecture on Monday to help prepare them for the following week's practical.
+          
+During the practical class, all students are in the same large room, and they work through exercises. Instructors and TAs help students with questions, and can also pro-actively offer assistance.
+
+TAs should have some experience of helping students (or have attended training on how to help students) and a good knowledge of data analysis, statistical methods, and R.
+
+For continuity, any single TA should work on at least six afternoons, ideally consecutive, and ideally a TA would work on both Thursday and Friday of any single week.
+    
+Course material will be made available to TAs in time for them to familiarise themselves with it, and to seek assistance with any additional preparation they would like.
+          
+All grading is done automatically by computer, so instructors can focus their time on the fun stuff: interacting and helping the students.
+          
+All time used is counted, e.g. preparing for TAing, contact hours, forum moderation, all count. TAs must keep a track of their time spent on the course; Owen will verify this at the end of the course. For reference, one might expect 2 hours prep. and 2 hours TAing per afternoon, giving 48 hours for 12 afternoons TAing (half the course) or 96 hours for the whole course, plus time spent in administration and TA briefing/training sessions. Additional hours could be gained from invigilation of the final exam.
+          
+
+
+# BIO 329
+
+*Ecology Block Course* Please contact Dr Frank Pennekamp about this course. [You can find his email address on this page.](https://www.ieu.uzh.ch/member/current.php)
+
+# BIO 357
+
+*Research internship in Ecology* Please check the information [here](http://www.biologie.uzh.ch/Studium/AllgemeineInformationen/Merkblatt/BIO357_InfoSheet.pdf) (ignore the mention of the masters programme in this document), and below.
+
+If you're interested in doing an internship with a group at UZH, please discuss with the possible supervisor.
+
+The internship can last from 4 to 12 weeks, with the same number of credit points as weeks.
+    
+Once you have made arrangements with your prospective supervisor, please send Prof. Petchey the following information: Supervisor name, project title, 50 word maximum project description, dates of internship, number of credit points sought, and confirmation that you understand how the module is graded. You can find his email address on <a href="http://www.ieu.uzh.ch/staff.php">this</a> page.
+          
+Here is the [grading rubric for BIO357](assets/BIO357%20Assessment%20Rubric.docx). 
+
+Here are the [regulations regarding an external research internship](assets/extForschungsprakt.pdf). There are a few things to do in order to get approval for an external research internship to contribute credit points.
+          
+ 1. Contact Prof Petchey with your idea. You can find his email address on <a href="http://www.ieu.uzh.ch/staff.php">this</a> page.
+          
+ 2. Please have your external supervisor send an email to Prof. Petchey with the following text: "I understand that I will be responsible for all aspects of *insert name of student* during their Research Internship, including supporting their preparation of their final report according to the learning objectives and assessment rubric, though excluding grading of this report. I have read and understand the documents [here](assets/357_FSHS_Petchey.doc) and [here](assets/BIO357%20Assessment%20Rubric.docx). I am aware that the final report must and will be graded by a faculty member at the University of Zurich."
+
+ 3. Please have the external supervisor also send their CV, with information included about previous experience supervising student projects.
+        
+ 4. Please also send a ~50 word summary of the proposed research project (this can come from you or the external supervisor).
+
+ I hope that you nor your supervisors feel this is too demanding. Once we receive this information, we will let you know about approval, or whether some discussion is needed.
+
+<b>Important:</b> the internship is assessed on the written report, according to the supplied rubric. Please make sure sufficient time and effort are dedicated to the written report! It is easy to fail (grade < 4.0) by submitting a poor report. 
+
+
+
+For enquiries, contact Owen Petchey about this course. [You can find his email address on this page.](https://www.ieu.uzh.ch/member/current.php)
+
+
+# BIO 377
+
+BIO 377, Introduction to R and the Tidyverse (masters level course).
+
+**Do not take this course if you have already taken BIO144**
+
+This course runs in fall semester. [Further information about the course is here](https://mnf.openedx.uzh.ch/courses/course-v1:MNF+multi_module+multi_date/about). For any information about registration please contact Maja Weilenmann. You can find her email address [here](http://www.ieu.uzh.ch/staff.php).
+
+
+# BIO 604
+
+BIO 604, R-Lunch group. This course is not currently running. If you would like to help restart it, please contact Owen.
+
+# BIO 633
+
+BIO633 Reproducible Research in Ecology, Evolution, Behaviour, and Environmental Studies. **This course is not currently running. If you would like to help restart it, please contact Owen.** Some information about it is [here](https://github.com/opetchey/RREEBES/blob/master/README.md).
+
+# Ecology PhD
+
+The current director of the programme, and other important information about it can be found here: [PhD Programme in Ecology web page](http://www.ieu.uzh.ch/teaching/phd/graduate.html). Also please consider contacting the coordinator of the programme, Debra Zuppinger-Dingley. You can find her email address on [this](http://www.ieu.uzh.ch/staff.php) page.
+
+# Ecology "Masters"
+
+Please note that this is not an "Ecology Masters" or "Masters in Ecology", but rather the *Ecology Specialisation of the **Masters in Biology***.
+
+The current Coordinator of this specialisation of the Masters in Biology can be found here: [Masters Coordinator](https://www.biologie.uzh.ch/de/Studium/Masterstudium/MasterStudies/Ecology.html).
+
+
+## Instructions for students and supervisors
+
+Please first consult this [information about the Biology Masters and the specialisation in ecology](http://www.biologie.uzh.ch/Studium/Masterstudium/MasterStudies/Ecology.html) and also the following information.        
+          
+## Enquiries by prospective students
+
+If you are interested in doing a masters then it is important to know that the *Masters Thesis*, based on a research project, is the most important element of the Masters. Therefore, finding the correct supervisor is paramount, and so make this your first priority.
+
+At the same time, you may wish to check that your Bachelors degree qualifies you to study for the Ecology Specialisation of the Biology Masters. You may contact the director of biology studies, Dr Karin Isler, to make an informal enquiry about the eligibility of your Bachelors degree. You can find her email address [here](http://www.biologie.uzh.ch/Studienberatung.html).
+          
+The next step is to apply to study at the University of Zurich (if you are not a student already at UZH). Please consult [this page](http://www.biologie.uzh.ch/Studium/Masterstudium/MasterStudies/Ecology.html), and in particular *application information* link in the right column.          
+
+Next, please make your learning agreement in consultation with your Masters Thesis supervisor (see the relevant section below), submit it (see below for details), and then begin your masters studies.
+                    
+## Who can be my masters supervisor?
+
+If you have any doubts about if a particular person can be your masters supervisor, please ask them. If they have any doubt, please have them contact the coordinator. This is particularly important if you are considering a masters thesis with an external organisation/supervisor. In any case, you may find this [draft document for potential supervisors](https://docs.google.com/document/d/1E0PYbcKDGmwtPU9K8qZRJfpCP_NHUgVsNgAkrmH2VoA/edit?usp=sharing) useful.     
+          
+## Duration
+
+The Masters is composed of three parts:
+
+1. BIO 510 (The masters thesis). The duration of this part is 12 months. If work on the thesis is interrupted by work for the other two parts of the Masters, ensure the an end date of the Masters Thesis that includes this, and note this on the Learning Agreement in advance.
+2. BIO 520 (Integrated knowledge in biology). This module requires 300 hours of self-study, so has a minimum duration of 2 months (8 hours per day, five days per week, for seven and a half weeks).
+3. Elective modules (20 CPs). The time used for these is of course separate from time used for BIO 510 and 520.
+
+          
+## Finishing your bachelors (transferring credits to masters)
+
+You may wish to transfer some of the course credits you gained during your bachelors to your masters, and therefore need approval and signature of the masters coordinator. Please note below the number of credit points needed to take during your masters. Also note that signature of permission to transfer credits does not mean they can be used towards the 20 elective masters CPs: this can only be defined on the learning agreement (see below). Hence, it makes sense to decide which credit points to transfer AND to make the learning agreement at the same time. Consuequently, the masters coordinator will only authorise transfer of credits in the presence of a complete learning agreement.
+          
+          
+## The learning agreement
+
+The learning agreement sets out the student’s programme of learning and research during their Masters. It should be well thought out and carefully planned, such that changes are unecessary. All sections should be completed before the signature of the Masters Coordinator is sought, the form is handed in to the Biology Studienkoordination, and masters studies begin.  A common need for revision of the learning is specifying insufficient time for BIO 520 (it requires 300 hours of study, so around three months). A link to the learning agreement is  [here](http://www.biologie.uzh.ch/Studium/Masterstudium/MasterStudies/Ecology.html).
+
+        
+If you have an external supervisor (as well as internal), add their name to the Learning Agreement at the end of the Thesis description section or by adding a text box with appropriate editing software. Get their signature also.
+          
+If the length of time from your indicated start date to the end date is greater than 12 months, please state why at the end of the Thesis description section or by adding a text box with appropriate editing software.
+          
+BIO520: please indicate the weeks/months during which you will study for BI520 at the end of the Thesis description section or by adding a text box with appropriate editing software.
+          
+To obtain the masters coordinators signature:
+
+1. Prepare a complete draft of the learning agreement in collaboration with your supervisor.
+2. Email it to the masters coordinator for feedback and revise as required, in collaboration with your supervisor.
+3. Repeat step 2 until the masters coordinator says the Learning Agreement can be signed.
+4. Add student and supervisor signatures to the Learning Agreement.
+5. Make arrangements with the masters coordinator them sign the Learning Agreement.
+ 
+
+
+To make changes to the learning Agreement: student specifies the change, gains consent of supervisor, gains consent of the Masters coordinator, gains consent of Studienkoordination. This process can happen by email, and each stage of request for consent should include evidence that the previous stages are completed. 
+          
+          
+          
+## Extensions
+
+Due to fairness, the total duration of a Master's project is one year, and not more except in exceptional circumstances. The fairness goes in both directions: students must be treated equally, but the should also not be overburdened by a project that (perhaps unexpectedly) requires more work than reasonably fits within one year. If a student has to work for a living a significant amount of time even during the Master's project, a delay must also be planned from the start. If a project turns out to be more extensive than planned, the student must be given the possibility to finish the thesis within time, and perhaps continue the project after graduation.
+
+Circumstances that might require and qualify for an extension include:
+
+1. Illness / injury of student (requires a doctors note).
+2. Family emergencies.
+
+Circumstances that do not qualify for an extension include:
+
+1. Difficulties with the research (e.g., organisms not growing, more data than expected, analyses harder than expected, taking longer to write than expected, machine breakdowns, wanting to do “just one more experiment”, etc.).
+2. Busy supervisors.
+3. Badly planned learning agreements (e.g., setting a handing in deadline during holidays, not anticipating important activities).
+
+To request an extension please discuss the request with your supervisor, and then email it to the Masters Coordinator and cc your supervisor.
+
+          
+## Elective 20CPs   
+
+Twenty credit points need to be accrued from modules you choose. Please make your choices in collaboration with your supervisor, and enter them into your learning agreement. There are no mandatory courses; please choose courses that will meet your training needs.
+
+At least fifteen credit points must come from courses taken during the masters and be from UZH or ETH Zurich.
+
+Journal club and research seminar based modules cannot contribute to the 20 elective CPs. They are expected to be part of the masters thesis experience.
+
+## Language
+
+Please make sure that elective modules are given in a language you can understand. Many but not all are in English; some are in German.          
+          
+## BIO 520 Integrated Knowledge in Biology
+          
+Responsible for this module is Dr Schaepman-Strub (ou can find her email address on [here](http://www.ieu.uzh.ch/staff.php). This module, designed as a self-study period of the Master degree course and comprising of a total of 300 study hours (corresponding to about 2 months), allows students to demonstrate a comprehensive understanding of primarily the area of their chosen MSc specialization but also general fundamental biological concepts. The supervisor of the Master thesis discusses and designs the scope and content of the module with each individual student, with required assistance from the module coordinator. In general, it is expected that the student uses the opportunity to acquire a broad and solid overview in Ecology (for instance by working through an actual textbook like Begon, Harper, and Townsend, Ecology), with additional focus on the general area of their Masters Thesis research. At the end of the self-study period, the examination takes place in the form of a three-hour written and a 30-60 minute oral examination.
+
+### Learning Outcomes
+
+By the end of this module students should be able to:
+
+* Demonstrate their understanding and command of relevant biological facts, methods and concepts
+* Identify and explain interrelationships between the various facts, methods and concepts
+* Summarise and critically review scientific literature efficiently and effectively
+
+### Format of the exams
+
+The three-hour written and the oral examination should ideally take place within one week, with the written exam coming first. While an approximate date is already determined in the Learning Agreement at the start of the MSc Program, the precise dates have to be arranged on an individual basis between the thesis supervisor and the student, and communicated to the module coordinator. In the past, the exam has often been scheduled after completion of the Master thesis. *However, students may find it more sensible and useful to perform the study before the Masters thesis research, and to include in the essay, a thorough review of literature generally relevant to their Masters thesis (this could work well with option 1.3 for the written part, see below).* The final grade will be the arithmetic mean (rounded to half grades) of the grades obtained in the two parts. The oral and written part must each be graded at least 4.0 to pass. Retaking individual components (i.e., oral or written) is possible.
+
+### Part 1: Written examination
+
+The written examination lasts 3 hours. Unless otherwise agreed, the exam takes place at the Institute of Evolutoinary Biology and Environmental Studies (IEU) in a room organized by the MSc coordinator or delegate. In that case the thesis supervisor has to make sure that the exam questions are transmitted sufficiently ahead of time to the module coordinator.  Supervision of the exam is then handled by the module coordinator. The candidate can bring written notes, but not a complete copy of the planned essay. The examiner can (with advance notice) provide a computer (with no internet access) on which the essay can be written.
+
+Options for the exam:
+
+1.1 *Essay* One option is to offer the candidate two to three general topics in the field of Ecology. She/he selects one of these and studies it based on general ecology textbooks and/or selected primary literature. At the exam, the student will be given a title, and then writes a short essay (a few pages) to demonstrate her/his general knowledge in the field. Examples of previous essay titles:
+
+ * Describe and critique a general ecological “law”.
+ * How are complexity and stability related?
+ * What is the functional significance of biodiversity?
+ * What factors affect how likely is a species to go extinct?
+ * What are the main hypotheses for why there are so many species?
+
+1.2 *Analysis of primary literature* The candidate will be given three primary literature papers by the thesis supervisor one week before the date of the written exam, usually in electronic form (pdf). The candidate has to read and acquire an understanding of these papers until the exam. At the exam, she/he will be asked a series of “journal club style” questions about one two, or all three of these papers. These should be answered completely and succinctly. Examples of previously asked primary literature questions. Obviously, the questions make no sense without the paper, but you get a general idea…
+ 
+ * How did the authors justify the experimental design used?
+ * If you were the author of this paper, what would be the next experiment(s) that you would perform? Explain briefly why, and how you would perform these experiments.
+ * Explain the principles capture-mark-recapture methods.
+ * With reasoning, explain if you think appropriate statistical methods were used?
+ * What is one of the most significant errors or problems in the paper?
+
+1.3 *Literature review* A subject area within Ecology is chosen, perhaps an area that includes the Masters thesis research area, and a literature review is researched and written. The review could include documentation of previous work, critique of previous work, and synthesis of the same.
+
+### Part 2: Oral examination
+
+The oral part should take place about a week after the written part. The module coordinator or delegate therefore must be present, in addition to the Masters supervisor. The supervisor or the module coordinator / delegate can also invite additional group leaders to attend. Apart from the candidate and the Master thesis supervisor, the module coordinator (or delegate thereof) as well as perhaps additional group leaders may participate at the oral exam. It is the responsibility of candidate and Master thesis supervisor to arrange a date with the other examiners. 
+
+### BIO520 FAQs
+
+1. *Who selects which option (general essay, literature review, study of particular papers)? *The student and supervisor, with any require input from the module coordinator or delegate.
+
+2. *Who selects the publications (if this option is taken)?*
+The supervisor, with any require input from the module coordinator or delegate.
+
+3. *How close to the topic of the Master thesis should the selected papers be? *The papers should address matters of the chosen MSc specialization (i.e. Ecology). They should not be too close to the area of the Master thesis research but they can be from the *wider* area of the Master thesis research.
+
+3. *Who hands out the pdfs of the selected publications to the candidate? When are they handed out? *The Master thesis supervisor. Exactly one week ahead of the date of the written exam by e-mail to the candidate with a cc to the module coordinator or delegate.
+
+4. *Who formulates the specific questions concerning the selected publications for the written exam?* Specific questions are formulated concerning one, two or all three of the selected publications by the Master thesis supervisor, but it is not excluded that they are contributed by the module coordinator or delegate. The Master thesis supervisor presents his/her suggestions for these specific questions to the module coordinator or delegate ahead of the exam.
+
+5. *Who formulates the essay topics?* The Master thesis supervisor and student propose essay topics to the module coordinator or delegate. Note that these topics have to be rather general. They should not be too closely related to the Master thesis research project, but can include it.
+
+6. *Who is responsible that a definitive selection of questions and essay topics is available at the date of the written exam?* The Master thesis supervisor.
+
+7. *Who organizes the room for the written exam and the supervision of the candidate during the written exam?*
+In general, this will be the module coordinator or delegate. They must therefore be brought in possession of the definitive questions and essay topics at least a week before the written exam.
+
+8. *Who corrects and grades the written exam?* The Master thesis supervisor. They will get the original solutions written by the candidate from the module coordinator or delegate and is expected to communicate the corrected exam as well as a suggestion for an appropriate grade to the module coordinator or delegate within about a week. The module coordinator or delegate has the right to modify the suggested grade.
+          
+          
+          
+          
+## BIO 510 Master Thesis
+
+The written Master thesis has to comply formally with the usual standards applied to scientific publications. Formatting / layout guidelines are [here](https://www.biologie.uzh.ch/de/Studium/Masterstudium#Master&#039;s_thesis_(including_FAQ_on_layout)). The student has to hand in the final version of his Master thesis to the Studienkoordination on the date fixed in the Learning Agreement, both as a paper copy and a pdf. Additional copies will have to be given to the Master thesis supervisor and to the MSc coordinator (as a pdf at least) or delegate for evaluation. The supervisor should forward his evaluation report together with a suggestion for an appropriate grade for BIO 510 (full and half grades permitted) to the MSc coordinator  or delegate. The coordinator  or delegate has the right to ask for revisions of Master theses that do not fulfil formal standards, as well as modify the suggested grade.
+          
+The masters thesis is not graded on length as such. It should be long enough, and no longer, as required to represent the research carried out during the 12 months, and to meet the assessment guide below. Some have hypothesised a [u-shaped relationship](assets/Quality_length_grade.png) between quality per page, and number of pages. Example masters theses [here](assets/example_masters_theses/master_thesis_peter.pdf), [here](assets/example_masters_theses/Gerber_MasterThesis.pdf), [here](assets/example_masters_theses/Masters_Thesis_Philip_Dermond.pdf), [here](assets/example_masters_theses/Michael_Amato_Thesis.pdf), [here](assets/example_masters_theses/MSc_Thesis_David_Tanno.pdf), and [here](assets/example_masters_theses/SuzanneThesis_Dec12.pdf).
+          
+
+### Thesis grading
+
+In general the following six criteria (A.1-3, B.1-3) are most important for grading BIO 510:
+A. Thesis: Overall style, presentation, logic, language, completeness
+
+A.1 Introduction:
+ 
+ * Concise overview of the research field relevant to the Master thesis focussed towards an explanation of the significance of the Master thesis research within this field
+ * Clear description of the problem addressed in the thesis, and clear statement of the project goals
+
+A.2 Results and Methods:
+ 
+ * Clear description of the logic and hypotheses underlying the choice of performed experiments
+ * Clear presentation and correct interpretation of the experimental results
+ * Clear description of the methods used such that all experiments can be reproduced by others
+
+A.3 Discussion and Conclusions:
+ 
+ * Concise discussion of the obtained results with respect to the original goals
+ * Discussion of the results into a more general context within the research field
+ * Formulation of new hypotheses, outlook for future work
+
+Note that the supervisor should base their grade recommendation on a version of the Master thesis that has not yet been corrected by the supervisor or (other experienced scientists) and that is considered to be the final version by the student. Upon request, the MSc coordinator is entitled to inspect this first final version. However, subsequent revision in response to comments by the supervisor (or experienced scientists) is permitted and in fact an important element of learning and teaching of the MSc program.
+
+B. Practical work in the laboratory: Overall attitude, motivation, input, independence
+
+B.1 Lab work:
+ 
+ * High quality and conclusiveness of experimental work
+ * Independent organization of experimental procedures
+ * Solid understanding of the theory behind experimental techniques
+ * Detailed and traceable documentation of the experimental work in the lab note book
+
+B.2 Experimental design:
+ 
+ * Independent interpretation and design of experiments
+ * Understanding of the purpose, possibilities and limitations of the applied experimental techniques
+
+B.3 Communication:
+ 
+ * Communicative attitude in the laboratory
+ * Ability to ask for and make constructive use of advice
+ * Initiation of and contribution to scientific discussions
+ * Clear presentation of the project and the results in group meetings and during a contingent Master thesis defence.
+
+          
+### Public research seminar on Masters thesis project
+(About 25 minutes + 10 minutes of public discussion). Quality of the performance will be considered (among many additional points) when deciding on a grade for the Master thesis (BIO 510). The public research seminar is used as a convenient mechanism for the student to present his/her thesis work to the examiners. After the research seminar and the short public question/answer period, all guests are asked to leave the room. The final research seminar is followed by a maximum 30-minute question/answer session, in which the student’s supervisor and the MSc coordinator (or a delegate thereof) may ask the student questions related to the Master thesis.
+
+### Masters Abschluss
+
+When you have completed BIO 510 and BIO 520, please have your supervisor complete [this form](assets/Masterabschluss.docx). **Be sure to complete all the fields.** Once complete, please arrange to have it signed by the Masters Coordinator.
+
+### Contact
+
+If you have any questions, please contact the [Masters Coordinator](https://www.biologie.uzh.ch/de/Studium/Masterstudium/MasterStudies/Ecology.html).
+
+   
