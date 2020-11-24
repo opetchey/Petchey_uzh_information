@@ -41,7 +41,7 @@ If you would like to register/book to take BIO144 then please: login on the modu
 >All information about the course is provided via the online learning platform edu-exchange (another installation of openedx). I am sorry that this is probably a new platform for you to register on and use. Please go here (https://edu-exchange.uzh.ch/), click on “Sign in” in the top right corner, and follow the instructions.
 >
 >Then enrol in this course:
-https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2020/about
+https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2021/about
 >
 >Before the first class, please look at the sections of the course material on openedx:
 >
@@ -64,7 +64,7 @@ https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2020/about
 
 ## BIO144 Teaching Assistantships
 
-**For TAing in the coming session: this will be organised from October onwards. Please then contact Frank Pennekamp (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
+**For TAing in the coming session: this will be organised from October onwards. Please then contact Anubhav Gupta (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
 
 *BIO 144 -- Data Analysis in Biology* is a 4th semester mandatory course for the approx. 300 biology, biomedicine, and other students. It is a great opportunity to impart to students the wonderful world of quantitative problem solving, in a large, interactive, and enjoyable class.  We will cover getting data, managing data, visualising data, summarising data, statistical analysis (mostly linear models, but also some other methods), and communicating results.
     
