@@ -34,32 +34,40 @@ If you would like to register/book to take BIO144 then please: login on the modu
 
 * If you can't book a place on the course via the booking tool, please contact studienkoordination@biol.uzh.ch
  
-* If you missed the registration period, here is the email you will have missed. It contains critical information about what to do before the course starts:
+**If you missed the registration period, here is the email you will have missed. It contains critical information about what to do before the course starts:**
 
 > Dear Students
->
->Welcome to BIO144, Data Analysis in Biology.
->
->All information about the course is provided via the online learning platform edu-exchange (another installation of openedx). I am sorry that this is probably a new platform for you to register on and use. Please go here (https://edu-exchange.uzh.ch/), click on “Sign in” in the top right corner, and follow the instructions.
->
->Then enrol in this course:
-https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2021/about
->
->Before the first class, please look at the sections of the course material on openedx:
->
->* About the course
->* Please do this now!
->* What you should already know (with things you can do to help remember)
->
->This may take a few hours.
->
+> 
+> Welcome to BIO144, Data Analysis in Biology, FS 2021
+> 
+> All information about the course is provided via the online learning platform edu-exchange (an installation of openedx). Please go here (https://edu-exchange.uzh.ch), click on “Sign in” in the top right corner, and follow the instructions.
+> 
+> Then enrol in this course:
+> https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2021/about
+> 
+> Before the first class, please look at the sections of the course material on openedx:
+> - About the course
+> - What you should already know (with things you can do to help remember)
+> This may take a few hours.
+> 
 > The course could be quite challenging, especially in the first few weeks, so its really worth doing this preparation.
->
-> By the way, you need to bring a laptop to the first (and every other) class.
->
-> Please use the online course discussion forum for any queries, or do so in person during the first class.
->
-> Please address any email enquiries to bio144@ieu.uzh.ch
+> 
+> By the way, you need to have a laptop in the first (and every other) class.
+> 
+> Please use the online course discussion forum for any queries, or do so in person (online if required) during the first class.
+> 
+> Until further notice, and probably for the whole semester, all elements of the class will be online, and not on-site. The exception is the final examination, which is planned to be on-site.
+> 
+> See you at the first lecture on Monday 22nd February. On Monday 22nd morning, you will find the link to the online lecture in the "Lecture Link" post in the Discussion Forum of the openedx course. Here is the link to that post:
+> https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2021/discussion/forum/course/threads/6027846ab7e06819ff000000
+> 
+> This first lecture and all others will be recorded and made available at the following link within 24 hours of the lecture. (Please ignore the broken test video link there.)
+> https://lms.uzh.ch/auth/RepositoryEntry/16940630084/CourseNode/103026722096891
+> 
+> I and the course team are very much looking forward to helping you learn more about the exciting world of data analysis in biology!
+> 
+> Owen Petchey and the BIO144 team
+
 
 **FAQ**
 
