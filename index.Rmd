@@ -63,7 +63,7 @@ If you would like to register/book to take BIO144 then please: login on the modu
 > Until further notice, and probably for the whole semester, all elements of the class will be online, and not on-site. The exception is the final examination, which is planned to be on-site.
 > 
 > See you at the first lecture on Monday 22nd February. On Monday 22nd morning, you will find the link to the online lecture in the "Lecture Link" post in the Discussion Forum of the openedx course. Here is the link to that post:
-> https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2021/discussion/forum/course/threads/6027846ab7e06819ff000000
+> https://edu-exchange.uzh.ch/courses/course-v1:UZH+BIO144+FS2021/discussion/forum/course/threads/602ac1ba468fc04d5d000000
 > 
 > This first lecture and all others will be recorded and made available at the following link within 24 hours of the lecture. (Please ignore the broken test video link there.)
 > https://lms.uzh.ch/auth/RepositoryEntry/16940630084/CourseNode/103026722096891
