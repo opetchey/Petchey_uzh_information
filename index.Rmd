@@ -120,6 +120,8 @@ The internship can last from 4 to 12 weeks, with the same number of credit point
     
 Once you have made arrangements with your prospective supervisor, please send Prof. Petchey the following information: Supervisor name, project title, 50 word maximum project description, dates of internship, number of credit points sought, and confirmation that you understand how the module is graded. You can find his email address on <a href="http://www.ieu.uzh.ch/staff.php">this</a> page.
           
+In order to do an internship involving scuba diving, or other highly regulated activity, there must be written authorisation from a UZH member of staff, confirming that all necessary qualifications, insurance, and other appropriate conditions are in place. (In the recent past it was not possible to find such a person.)
+          
 Here is the [grading rubric for BIO357](assets/BIO357%20Assessment%20Rubric.docx). 
 
 Here are the [regulations regarding an external research internship](assets/extForschungsprakt.pdf). There are a few things to do in order to get approval for an external research internship to contribute credit points.
