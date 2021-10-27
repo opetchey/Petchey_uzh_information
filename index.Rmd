@@ -5,7 +5,7 @@ output:
   html_document:
     number_sections: no
     toc: yes
-    toc_depth: 1
+    toc_depth: 2
     theme: spacelab
     toc_float:
       collapsed: no
@@ -26,7 +26,7 @@ Please see this web page [about opportunities to work in Owen's team](http://the
 
 Please see the important information in the [UZH Vorlesungverzeichnis/Course Catalogue](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html). Please send any enquiries to [the course email address](mailto:bio144uzh@gmail.com). You may also view the course [Learning Objectives](https://github.com/opetchey/BIO144/blob/master/1_learning_objectives/Weekly_learning_objectives.pdf).
 
-## BIO144 Frequently asked questions about taking the course
+## FAQ
 
 **How do I register for / book the course / get the relevant introductory information, even if it is after the booking deadline?**
           
@@ -84,9 +84,9 @@ Please see the answer to the previous question, which addresses this question al
 
 Yes, see the email above, about what to do. Also please contact studienkoordination@biol.uzh.ch and ask to be booked onto the course but as a student auditing it. This will ensure you receive any important emails about the course.
 
-## BIO144 Teaching Assistantships
+## TAing
 
-**For TAing in the coming session: this will be organised from October onwards. Please then contact Anubhav Gupta (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
+**For TAing in the coming session: this will be organised from October onwards. Please then contact Uriah Daugaard (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
 
 *BIO 144 -- Data Analysis in Biology* is a 4th semester mandatory course for the approx. 350 biology, biomedicine, and other students. It is a great opportunity to impart to students the wonderful world of quantitative problem solving, in a large, interactive, and enjoyable class.  We will cover getting data, managing data, visualising data, summarising data, statistical analysis (mostly linear models, but also some other methods), and communicating results.
     
