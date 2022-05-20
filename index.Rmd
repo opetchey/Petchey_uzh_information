@@ -100,7 +100,7 @@ Course material will be made available to TAs in time for them to familiarise th
           
 All grading is done automatically by computer, so instructors can focus their time on the fun stuff: interacting and helping the students.
           
-All time used is counted, e.g. preparing for TAing, contact hours, forum moderation, all count. TAs must keep a track of their time spent on the course; Owen will verify this at the end of the course. For reference, one might expect 2 hours prep. and 2 hours TAing per afternoon, giving 48 hours for 12 afternoons TAing (half the course) or 96 hours for the whole course, plus time spent in administration and TA briefing/training sessions. Additional hours could be gained from invigilation of the final exam.
+All time used is counted, e.g. preparing for TAing, contact hours, forum moderation, all count. TAs must keep a track of their time spent on the course; Owen will verify this at the end of the course. For reference, one might expect 4 hours preparation per week (2 hours watching the lecture and two hours for the practical session) and 2 hours for each practical session giving 48 hours for 6 weeks of TAing both afternoons or 96 hours for the whole course, plus a few hours spent in administration and TA briefing/training. Additional hours could be gained from invigilation of the final exam.
 
 A doodle where one can sign up for the teaching slots will be send in December to applicants who have already done teaching assistantship in BIO144 the previous year. Then, the doodle will be send to new applicants where the remaining slots are filled by the applicants on first-come, first-served basis.
 
@@ -133,7 +133,7 @@ Here are the [regulations regarding an external research internship](assets/extF
 
  I hope that you nor your supervisors feel this is too demanding. Once we receive this information, we will let you know about approval, or whether some discussion is needed.
 
-<b>Important:</b> the internship is assessed on the written report, according to the supplied rubric. Please make sure sufficient time and effort are dedicated to the written report! It is easy to fail (grade < 4.0) by submitting a poor report. 
+<b>Important:</b> the internship is assessed on the written report, according to the supplied rubric. Please make sure sufficient time and effort are dedicated to the written report! It is easy to fail (grade < 4.0) by submitting a poor report. The written report should be submitted at the end of the internship, and not after the internship has finished.
 
 
 
