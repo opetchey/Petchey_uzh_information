@@ -82,7 +82,11 @@ We do assume some basic R knowledge. I suggest you prepare by looking through Ch
  
 Yes, but first please look at the OLAT FAQ Wiki as it has many more questions and answers collected from previous years. If you still have a question, please ask in the OLAT Discussion Forum, email if it is of a personal nature, or do so in person (online if required) during the first practical class.
 
-## TAing
+## And after BIO144
+
+Courses that might interest you after having done BIO144, that follow on in the quantitative / modelling / programming / data science realm are listed on [this spreadsheet](assets/QuantitativeModules.xlsx). Note that it may not be completely up to date, so please consult the [UZH module directory](www.vorlesungen.uzh.ch) to check for currency and also further details.
+
+## TAing BIO144
 
 **For TAing in the coming session: this will be organised from October onwards. Please then contact Uriah Daugaard (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
 
