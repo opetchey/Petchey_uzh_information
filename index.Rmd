@@ -20,15 +20,20 @@ Please see this web page [about opportunities to work in Owen's team](http://the
 
 # BIO 144
 
+All information below is valid for Spring Semester 2023.
+
 ## Taking the course
 
-**Special information for Spring Semester 2022:** We are planning for in-person on-site lectures and practicals, but will also record all lectures for later viewing (podcasts). We will be ready to move to online-only format as required.
+We are planning for in-person on-site lectures and practicals, but will also record all lectures for later viewing (podcasts). We will be ready to move to online-only format as required.
 
 You must be enrolled in the course in OLAT, as only participants there will receive communications about the course. If you are uncertain about being enrolled, please see the first question in the FAQ below.
 
-Please see the important information in the [UZH Vorlesungverzeichnis/Course Catalogue](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html). Please send any enquiries to [the course email address](mailto:bio144uzh@gmail.com). You may also view the course [Learning Objectives](https://github.com/opetchey/BIO144/blob/master/1_learning_objectives/Weekly_learning_objectives.pdf).
+Please see the important information in the [UZH Vorlesungverzeichnis/Course Catalogue](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html).
+
+You may also view the course [Learning Objectives](https://github.com/opetchey/BIO144/blob/master/1_learning_objectives/Weekly_learning_objectives.pdf).
 
 ## FAQ
+
 
 **How do I register for / book the course / get the relevant introductory information, even if it is after the booking deadline?**
           
@@ -48,6 +53,10 @@ If you would like to register/book to take BIO144 then please: login on the modu
 **What preparation must I do before the class starts?**
 
 The course could be quite challenging, especially in the first few weeks, so its really worth doing this preparation. Before the first class, please carefully look at all of the content in these two sections in OLAT: *About the course* and *Previous knowledge*. This may take a few hours.
+
+**When do I get access to the material in OLAT?**
+
+A couple of weeks before the course starts.
 
 **Where is the material for the course?**
 
