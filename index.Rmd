@@ -97,7 +97,7 @@ Courses that might interest you after having done BIO144, that follow on in the 
 
 ## TAing BIO144
 
-**For TAing in the coming session: this will be organised from October onwards. Please then contact Uriah Daugaard (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
+**For TAing in the coming session: this will be organised from October onwards. Please then contact Martina Jelic (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
 
 *BIO 144 -- Data Analysis in Biology* is a 4th semester mandatory course for the approx. 350 biology, biomedicine, and other students. It is a great opportunity to impart to students the wonderful world of quantitative problem solving, in a large, interactive, and enjoyable class.  We will cover getting data, managing data, visualising data, summarising data, statistical analysis (mostly linear models, but also some other methods), and communicating results.
     

@@ -1352,6 +1352,7 @@ if (window.hljs) {
 
 
 
+
 <style type="text/css">
 .main-container {
 max-width: 940px;
@@ -1373,6 +1374,9 @@ outline: none;
 summary {
 display: list-item;
 }
+details > summary > p:only-child {
+display: inline;
+}
 pre code {
 padding: 0;
 }
@@ -1391,23 +1395,17 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before {
-content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "\e259";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "";
-border: none;
-}
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "";
+content: "\e258";
 font-family: 'Glyphicons Halflings';
-display: inline-block;
-padding: 10px;
-border-right: 1px solid #ddd;
+border: none;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -1516,7 +1514,7 @@ font-size: 0.95em;
 
 
 <h1 class="title toc-ignore">Petchey UZH Information</h1>
-<h4 class="date">Last update December 12, 2022</h4>
+<h4 class="date">Last update April 20, 2023</h4>
 
 </div>
 
@@ -1632,7 +1630,7 @@ directory</a> to check for currency and also further details.</p>
 <div id="taing-bio144" class="section level2">
 <h2>TAing BIO144</h2>
 <p><strong>For TAing in the coming session: this will be organised from
-October onwards. Please then contact Uriah Daugaard (email address on
+October onwards. Please then contact Martina Jelic (email address on
 this web page: <a href="http://www.ieu.uzh.ch/staff.php" class="uri">http://www.ieu.uzh.ch/staff.php</a>).</strong></p>
 <p><em>BIO 144 – Data Analysis in Biology</em> is a 4th semester
 mandatory course for the approx. 350 biology, biomedicine, and other
