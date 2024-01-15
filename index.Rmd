@@ -14,13 +14,13 @@ output:
 
 ***Various information related to Owen Petchey&#39;s work and responsibilities at University of Zurich***
 
-# Working in Owen's team
+# Working in the team
 
 Please see this web page [about opportunities to work in Owen's team](http://thetrophiclink.org/opportunities/). This one about [how to make an (even more) effective enquiry](http://thetrophiclink.org/posts/making-an-effective-enquiry/) may also be useful.
 
 # BIO 144
 
-All information below is valid for Spring Semester 2023.
+All information below is valid for Spring Semester 2024.
 
 ## Taking the course
 
@@ -85,7 +85,7 @@ You would be assigned to either Thursday or Friday. There is no problem, however
 
 **I have no previous experience in the R program, can I also attend it? Will this course also teach the R program as well?**
 
-We do assume some basic R knowledge. I suggest you prepare by looking through Chapter 2 of the [Insights from data book](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198849810.001.0001/oso-9780198849810). A few weeks before the course begins we distribute other instructions to help students prepare for the course.
+We do assume some basic R knowledge. I suggest you prepare by looking through Chapter 2 of the [Insights from data book](https://academic.oup.com/book/39565). A few weeks before the course begins we distribute other instructions to help students prepare for the course.
 
 **Can I ask a question that isn't covered here.**
  
@@ -97,7 +97,7 @@ Courses that might interest you after having done BIO144, that follow on in the 
 
 ## TAing BIO144
 
-**For TAing in the coming session: this will be organised from October onwards. Please then contact Martina Jelic (email address on this web page: http://www.ieu.uzh.ch/staff.php).**         
+**For TAing in the coming session: this will be organised from October onwards. Please then contact Martina Jelic (email address on this web page: https://www.ieu.uzh.ch/member/current.php).**         
 
 *BIO 144 -- Data Analysis in Biology* is a 4th semester mandatory course for the approx. 350 biology, biomedicine, and other students. It is a great opportunity to impart to students the wonderful world of quantitative problem solving, in a large, interactive, and enjoyable class.  We will cover getting data, managing data, visualising data, summarising data, statistical analysis (mostly linear models, but also some other methods), and communicating results.
     
@@ -128,7 +128,7 @@ A doodle where one can sign up for the teaching slots will be send in December t
 If you're interested in doing an internship with a group at UZH, please discuss with the possible supervisor.
 The first thing to do is think about what aspects of ecology you are interested in, to look at researchers at UZH that do ecologically oriented research, and hopefully find a match between those two. Then you should approach the researcher to see if they would consider hosting an internship.
     
-Once you have made arrangements with your prospective supervisor, please send Prof. Petchey the following information: Supervisor name, project title, 50 word maximum project description, dates of internship, number of credit points sought, and confirmation that you understand how the module is graded. You can find his email address on <a href="http://www.ieu.uzh.ch/staff.php">this</a> page.
+Once you have made arrangements with your prospective supervisor, please send Prof. Petchey the following information: Supervisor name, project title, 50 word maximum project description, dates of internship, number of credit points sought, and confirmation that you understand how the module is graded. You can find his email address on <a href="https://www.ieu.uzh.ch/member/current.php">this</a> page.
           
 In order to do an internship involving scuba diving, or other highly regulated activity, there must be written authorisation from a UZH member of staff, confirming that all necessary qualifications, insurance, and other appropriate conditions are in place. (In the recent past it was not possible to find such a person.)
           
@@ -136,7 +136,7 @@ Here is the [grading rubric for BIO357](assets/BIO357%20Assessment%20Rubric.docx
 
 Here are the [regulations regarding an external research internship](assets/extForschungsprakt.pdf). There are a few things to do in order to get approval for an external research internship to contribute credit points.
           
- 1. Contact Prof Petchey with your idea. You can find his email address on <a href="http://www.ieu.uzh.ch/staff.php">this</a> page.
+ 1. Contact Prof Petchey with your idea. You can find his email address on <a href="https://www.ieu.uzh.ch/member/current.php">this</a> page.
           
  2. Please have your external supervisor send an email to Prof. Petchey with the following text: "I understand that I will be responsible for all aspects of *insert name of student* during their Research Internship, including supporting their preparation of their final report according to the learning objectives and assessment rubric, though excluding grading of this report. I have read and understand the documents [here](assets/357_FSHS_Petchey.doc) and [here](assets/BIO357%20Assessment%20Rubric.docx). I am aware that the final report must and will be graded by a faculty member at the University of Zurich."
 
@@ -160,7 +160,7 @@ BIO 377, Introduction to R and the Tidyverse (masters level course).
 
 **Do not take this course if you have already taken BIO144**
 
-This course runs in fall semester. [Further information about the course is here](https://mnf.openedx.uzh.ch/courses/course-v1:MNF+multi_module+multi_date/about). For any information about registration please contact Maja Weilenmann. You can find her email address [here](http://www.ieu.uzh.ch/staff.php).
+This course runs in fall semester. [Further information about the course is here](https://mnf.openedx.uzh.ch/courses/course-v1:MNF+multi_module+multi_date/about). For any information about registration please contact Maja Weilenmann. You can find her email address [here](https://www.ieu.uzh.ch/member/current.php).
 
 
 # BIO 604
@@ -173,7 +173,7 @@ BIO633 Reproducible Research in Ecology, Evolution, Behaviour, and Environmental
 
 # Ecology PhD
 
-The current director of the programme, and other important information about it can be found here: [PhD Programme in Ecology web page](http://www.ieu.uzh.ch/teaching/phd/graduate.html). Also please consider contacting the coordinator of the programme, Debra Zuppinger-Dingley. You can find her email address on [this](http://www.ieu.uzh.ch/staff.php) page.
+The current director of the programme, and other important information about it can be found here: [PhD Programme in Ecology web page](http://www.ieu.uzh.ch/teaching/phd/graduate.html). Also please consider contacting the coordinator of the programme, Debra Zuppinger-Dingley. You can find her email address on [this](https://www.ieu.uzh.ch/member/current.php) page.
 
 # Ecology "Masters"
 
