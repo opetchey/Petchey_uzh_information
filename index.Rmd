@@ -108,7 +108,7 @@ Courses that might interest you after having done BIO144, that follow on in the 
 
 ## TAing BIO144
 
-**For TAing in the coming session: this will be organised from October onwards. Please then contact Martina Jelic (email address on this web page: https://www.ieu.uzh.ch/member/current.php).**         
+     
 
 *BIO 144 -- Data Analysis in Biology* is a 4th semester mandatory course for the approx. 350 biology, biomedicine, and other students. It is a great opportunity to impart to students the wonderful world of quantitative problem solving, in a large, interactive, and enjoyable class.  We will cover getting data, managing data, visualising data, summarising data, statistical analysis (mostly linear models, but also some other methods), and communicating results. We will use the R programming language for all of this.
     
@@ -126,8 +126,6 @@ Some important points about TAing this course:
 
 * **Any single TA should work on at least six afternoons, ideally consecutive, and ideally a TA would work on both Thursday and Friday of any single week.**
 
-*If you are not happy with any of these points, please do not apply to be a TA for this course.*
-
 We provide a two hours training and familiarisation session a few weeks before the course starts. This is mandatory for all TAs. We will also provide a TA forum for discussion and questions.
 
 All grading is done automatically by computer, so TAs can focus their time on the fun stuff: interacting and helping the students.
@@ -136,7 +134,7 @@ We will need help from a few TAs to quality control the final exam papers and to
           
 All time used is counted, e.g. preparing for TAing, contact hours, forum moderation, all count. TAs must keep a track of their time spent on the course; Owen will verify this at the end of the course. For reference, one might expect 4 hours preparation per week (2 hours watching the lecture and two hours for the practical session) and 2 hours for each practical session giving 48 hours for 6 weeks of TAing both afternoons or 96 hours for the whole course, plus a few hours spent in administration and TA briefing/training. Additional hours could be gained from invigilation of the final exam.
 
-A doodle where one can sign up for the teaching slots will be sent in December.
+**To express interest please contact Martina Jelic (email address on this web page: https://www.ieu.uzh.ch/member/current.php).**   
 
 # BIO 329
 
