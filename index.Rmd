@@ -20,7 +20,7 @@ Please see this web page [about opportunities to work in Owen's team](http://the
 
 # BIO 144
 
-All information below is valid for Spring Semester 2025.
+All information below is valid for Spring Semester 2026, unless otherwise stated.
 
 ## Taking the course
 
@@ -28,7 +28,7 @@ To take the course you must be enrolled in the course in OLAT. If you are not en
 
 Please see the important information in the [UZH Vorlesungverzeichnis/Course Catalogue](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html).
 
-You may also like to view the course [Learning Objectives](https://github.com/opetchey/BIO144/blob/master/1_learning_objectives/Weekly_learning_objectives.pdf).
+*Not yet valid for 2026*: You may also like to view the course [Learning Objectives](https://github.com/opetchey/BIO144/blob/master/1_learning_objectives/Weekly_learning_objectives.pdf).
 
 ## FAQ
 
